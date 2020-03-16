@@ -1,4 +1,4 @@
-{'Afghanistan': 'Asia',
+country_continent = {'Afghanistan': 'Asia',
  'Albania': 'Europe',
  'Antarctica': 'Antarctica',
  'Algeria': 'Africa',
